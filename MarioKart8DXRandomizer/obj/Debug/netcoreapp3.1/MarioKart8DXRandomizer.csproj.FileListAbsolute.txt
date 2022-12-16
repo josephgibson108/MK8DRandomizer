@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\obj\Debug\netcoreapp3.1\MarioKart8DXRandomizer.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\obj\Debug\netcoreapp3.1\MarioKart8DXRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\obj\Debug\netcoreapp3.1\MarioKart8DXRandomizer.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\obj\Debug\netcoreapp3.1\MarioKart8DXRandomizer.AssemblyInfo.cs
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\obj\Debug\netcoreapp3.1\MarioKart8DXRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\bin\Debug\netcoreapp3.1\MarioKart8DXRandomizer.exe
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\bin\Debug\netcoreapp3.1\MarioKart8DXRandomizer.deps.json
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\bin\Debug\netcoreapp3.1\MarioKart8DXRandomizer.runtimeconfig.json
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\bin\Debug\netcoreapp3.1\MarioKart8DXRandomizer.runtimeconfig.dev.json
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\bin\Debug\netcoreapp3.1\MarioKart8DXRandomizer.dll
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\bin\Debug\netcoreapp3.1\MarioKart8DXRandomizer.pdb
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\obj\Debug\netcoreapp3.1\MarioKart8DXRandomizer.dll
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\obj\Debug\netcoreapp3.1\MarioKart8DXRandomizer.pdb
+C:\Users\Student\source\repos\MarioKart8DXRandomizer\MarioKart8DXRandomizer\obj\Debug\netcoreapp3.1\MarioKart8DXRandomizer.genruntimeconfig.cache
